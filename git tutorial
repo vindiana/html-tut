@@ -1,2 +1,7 @@
 >> git init
->> git add .
+>> git add .     #note: fullstop(.) means all
+>> git commit -m "your message here"
+>> git branch -M main
+>> git remote add origin "git repo url path" #you do this once"
+>> git push -u origin branch_name #usually main
+
