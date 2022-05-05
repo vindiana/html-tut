@@ -1,0 +1,13 @@
+FTP means file transfer,Different browsershave different pro eg in‌ternetexplorer are up to 100percent
+it is the ability for a browser to accept special functionality for HTML5.how to write codes in html
+This is how codes are written in html 
+<!DOCTYPE html>
+The head 
+<metacharset="UTF-8">
+<title>My First page   and one site to validate website is validator.w3.org.When you use a tag <footer> you must  end it with a </footer>
+      IMAGES
+They are to be in jpeg GIF and png and that sizes matter by changing files or adjust the width/height.
+Keep styles out of codes <img>tag.WIDTH=500PIXEL THAT IS REDUCING THE ORIGINAL INTO HALF.If you have an introductory image you must put
+in the head the title.Incase of an error you must have a good alt text,must be accurate
+       Tables
+Making sure to sketch layout and the main tag is <table> <tr>is the row <td>is column

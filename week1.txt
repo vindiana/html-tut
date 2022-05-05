@@ -1,0 +1,11 @@
+INTRODUCTION TO HTML
+HTMLstands for Hypertext Transfer Protocol and its a markup language which uses tags to annotate document
+It is to be opened in Internetbrowsers like chrome,safari,firefox and microsoftedge.HTML helps explainsinformation in special ways.
+BROWSERS vary on how they sync to HTML5 and they differ by version.browsers transfer Html into viewable pages 
+chrome 92%,Microsoft edge is the most compatible 100%.The closing tags ends with a slash,Some tags have attribute src,href,etc.
+   Headers are different from headings,they are used to increase fonts.
+                HYPERLINKS
+THEY ARE SPECIAL TAGS<a> used to link from one site to the other,There are absolute links,relative links,internal,graphical.
+So i did an exmple by adding a link then there must be a description like click me,they lead to knowledge that search engine appears to have.
+Our links should not be direct to laptopso it wont be hacked into.<p> is used for paragraph H1 TO H6 are fonts for video tags we consider
+the heights widths autoplay,loop.Audio properties should be mp3 or wav,autoplay,buffered,muted,volume 
